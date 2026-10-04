@@ -1,6 +1,9 @@
-# 📦 RetailMart BD — Inventory Optimization & Dead Stock Detection
+# 📦 FreshMart — Inventory Optimization & Dead Stock Detection
 
-An end-to-end data analytics project that identifies dead stock, segments inventory by revenue and demand volatility, and builds a proactive reorder system for a simulated FMCG retail company in Bangladesh.
+An end-to-end data analytics project that identifies dead stock, segments 
+inventory by revenue and demand volatility, quantifies carrying costs, 
+forecasts demand, and builds a proactive reorder system for a simulated 
+FMCG retail company in Bangladesh.
 
 🏢 **Domain:** Retail / FMCG Supply Chain
 
@@ -14,13 +17,23 @@ An end-to-end data analytics project that identifies dead stock, segments invent
 
 > 💬 *"Our warehouses are full, but we're out of cash. And customers still complain we're out of stock."*
 
-RetailMart BD — a mid-sized FMCG retailer operating 3 warehouses and managing 35 SKUs — had no data-backed system to answer three basic questions:
+FreshMart — a mid-sized FMCG retailer operating 3 warehouses and managing 
+35 SKUs — had no data-backed system to answer five basic questions:
 
-- 📦 Which products have been sitting in the warehouse for months, silently blocking working capital?
+- 📦 Which products have been sitting in the warehouse for months, silently 
+  blocking working capital?
 - ⚠️ Which products are in high demand but at risk of stocking out?
 - 🔄 When is the right time to reorder, and how much should be ordered?
+- 💸 How much is dead stock costing the business every day it sits unsold?
+- 📊 What will demand look like next month — and are current stock levels 
+  prepared for it?
 
-Without answers, the company was caught between two contradictory problems at the same time — **overstocking and stockouts** — pointing to inefficiencies across Procurement, Warehousing, and Sales simultaneously.
+Without answers, the company was caught between two contradictory problems 
+at the same time — **overstocking and stockouts** — pointing to 
+inefficiencies across Procurement, Warehousing, and Sales simultaneously.
+
+This project builds the data infrastructure to answer all five questions — 
+and quantifies the cost of not having answered them sooner.
 
 ---
 
